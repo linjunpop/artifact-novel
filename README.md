@@ -1,1 +1,3 @@
 # artifact-novel
+
+A novel about a boy and a girl. They live in differnt time and space, but at sometime and somewhere, they can share connection between each other by interacting with a "same" object in the world. Then the story begins...
